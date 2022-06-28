@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0819cf3-e6b3-4691-b229-b27a74e340a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-StringProblems/src/main/java/com/algoexpert/IsUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-StringProblems/src/main/java/com/algoexpert/UniqueStringUsingArray.java" afterDir="false" />
+    <list default="true" id="e0819cf3-e6b3-4691-b229-b27a74e340a2" name="Changes" comment="Worked on the isUniqueCharacter algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-StringProblems/src/main/java/com/algoexpert/RunLengthDecoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-StringProblems/src/main/java/com/algoexpert/RunLengthDecoding.java" afterDir="false" />
     </list>
@@ -36,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/SHAB/Documents/projects/javaprojects/algoexpert-java-problems/java-StringProblems/src/main/java/com/algoexpert",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SHAB/Documents/projects/javaprojects/algoexpert-java-problems/java-StringProblems/src/main/java/com/algoexpert&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SHAB\Documents\projects\javaprojects\algoexpert-java-problems\java-StringProblems\src\main\java\com\algoexpert" />
@@ -137,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655368534533</updated>
     </task>
+    <task id="LOCAL-00001" summary="Worked on the isUniqueCharacter algorithm">
+      <created>1656349941338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656349941338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Worked on the isUniqueCharacter algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worked on the isUniqueCharacter algorithm" />
   </component>
 </project>

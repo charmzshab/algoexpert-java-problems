@@ -22,7 +22,6 @@ Sample Output
         for (int i = 0; i < text.length(); i++) {
             char c = text.charAt(i);
             if (Character.isDigit(c)) {
-//                count = count * 10 + c;
                 count = count * 10 + c - '0';
 
             } else {
