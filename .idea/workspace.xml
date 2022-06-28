@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0819cf3-e6b3-4691-b229-b27a74e340a2" name="Changes" comment="Worked on the isUniqueCharacter algorithm">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-StringProblems/src/main/java/com/algoexpert/RunLengthDecoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-StringProblems/src/main/java/com/algoexpert/RunLengthDecoding.java" afterDir="false" />
-    </list>
+    <list default="true" id="e0819cf3-e6b3-4691-b229-b27a74e340a2" name="Changes" comment="Worked on the isUniqueCharacter algorithm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
